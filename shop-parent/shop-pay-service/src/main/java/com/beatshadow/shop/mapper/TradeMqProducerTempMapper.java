@@ -7,6 +7,9 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
+/**
+ * @author gnehcgnaw
+ */
 @Mapper
 public interface TradeMqProducerTempMapper {
     int countByExample(TradeMqProducerTempExample example);

@@ -1,6 +1,5 @@
 package com.beatshadow.test;
 
-import com.beatshadow.api.IPayService;
 import com.beatshadow.constant.ShopCode;
 import com.beatshadow.shop.PayServiceApplication;
 import com.beatshadow.shop.pojo.TradePay;

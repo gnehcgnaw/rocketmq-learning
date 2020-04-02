@@ -4,6 +4,9 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
+/**
+ * @author gnehcgnaw
+ */
 public class TradeCoupon implements Serializable{
     private Long couponId;
 

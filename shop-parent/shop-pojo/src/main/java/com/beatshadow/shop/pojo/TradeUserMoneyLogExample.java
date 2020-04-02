@@ -5,7 +5,9 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-
+/**
+ * @author gnehcgnaw
+ */
 public class TradeUserMoneyLogExample implements Serializable {
     protected String orderByClause;
 

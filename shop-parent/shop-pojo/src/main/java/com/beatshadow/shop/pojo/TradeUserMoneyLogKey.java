@@ -1,7 +1,9 @@
 package com.beatshadow.shop.pojo;
 
 import java.io.Serializable;
-
+/**
+ * @author gnehcgnaw
+ */
 public class TradeUserMoneyLogKey implements Serializable {
     private Long userId;
 

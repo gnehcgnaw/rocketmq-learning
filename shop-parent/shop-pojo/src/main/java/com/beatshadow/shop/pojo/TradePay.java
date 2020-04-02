@@ -2,7 +2,9 @@ package com.beatshadow.shop.pojo;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
-
+/**
+ * @author gnehcgnaw
+ */
 public class TradePay implements Serializable {
     private Long payId;
 

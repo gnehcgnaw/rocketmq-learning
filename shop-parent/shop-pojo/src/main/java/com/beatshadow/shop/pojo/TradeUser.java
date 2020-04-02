@@ -2,7 +2,9 @@ package com.beatshadow.shop.pojo;
 
 import java.io.Serializable;
 import java.util.Date;
-
+/**
+ * @author gnehcgnaw
+ */
 public class TradeUser implements Serializable {
     private Long userId;
 

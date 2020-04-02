@@ -2,6 +2,9 @@ package com.beatshadow.entity;
 
 import java.math.BigDecimal;
 
+/**
+ * @author gnehcgnaw
+ */
 public class MQEntity {
 
     private Long orderId;

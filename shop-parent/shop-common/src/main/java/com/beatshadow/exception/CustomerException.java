@@ -4,6 +4,7 @@ import com.beatshadow.constant.ShopCode;
 
 /**
  * 自定义异常
+ * @author gnehcgnaw
  */
 public class CustomerException extends RuntimeException{
 

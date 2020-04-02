@@ -2,7 +2,9 @@ package com.beatshadow.shop.pojo;
 
 import java.io.Serializable;
 import java.util.Date;
-
+/**
+ * @author gnehcgnaw
+ */
 public class TradeGoodsNumberLog extends TradeGoodsNumberLogKey implements Serializable {
     private Integer goodsNumber;
 

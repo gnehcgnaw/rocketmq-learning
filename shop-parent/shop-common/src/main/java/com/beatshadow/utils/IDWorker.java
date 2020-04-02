@@ -1,5 +1,8 @@
 package com.beatshadow.utils;
 
+/**
+ * @author gnehcgnaw
+ */
 public class IDWorker {
 
     /**

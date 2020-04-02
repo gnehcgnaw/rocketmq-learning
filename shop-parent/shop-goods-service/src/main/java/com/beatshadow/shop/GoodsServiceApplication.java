@@ -1,11 +1,12 @@
 package com.beatshadow.shop;
 
-import com.alibaba.dubbo.spring.boot.annotation.EnableDubboConfiguration;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author gnehcgnaw
+ */
 @SpringBootApplication
-@EnableDubboConfiguration
 public class GoodsServiceApplication {
 
     public static void main(String[] args) {

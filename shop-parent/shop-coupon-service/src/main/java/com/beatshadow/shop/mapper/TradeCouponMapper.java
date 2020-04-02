@@ -7,6 +7,9 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
+/**
+ * @author gnehcgnaw
+ */
 @Mapper
 public interface TradeCouponMapper {
     int countByExample(TradeCouponExample example);

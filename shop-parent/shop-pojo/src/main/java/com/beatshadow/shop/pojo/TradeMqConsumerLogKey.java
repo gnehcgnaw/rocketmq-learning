@@ -1,7 +1,9 @@
 package com.beatshadow.shop.pojo;
 
 import java.io.Serializable;
-
+/**
+ * @author gnehcgnaw
+ */
 public class TradeMqConsumerLogKey implements Serializable {
     private String groupName;
 

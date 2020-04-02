@@ -1,7 +1,8 @@
 package com.beatshadow.constant;
 
 /**
- * @author Think
+ *
+ * @author gnehcgnaw
  */
 
 public enum ShopCode {
